@@ -12,4 +12,4 @@ def encrypt(my_dict, msg):
 
     return new_str
 
-# substitution
+# substitutions

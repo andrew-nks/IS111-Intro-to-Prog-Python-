@@ -1,0 +1,14 @@
+# Q1
+# a) "a >= b"
+"a <= b"
+# b) "a >= b"
+"a <= b"
+# c) False
+True
+
+a = 20
+b = 20
+if a >= b:
+    print("a >= b")
+if a <= b:
+    print("a <= b")
